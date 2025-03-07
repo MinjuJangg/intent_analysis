@@ -1,0 +1,6 @@
+,Dataset,intent,slot,최종데이터
+0,Amazon_massive,60,55,11082
+1,AI Hub 한국어 대화,12,36,7520
+2,최종 Train,72,87,14881
+3,최종 Valid,66,83,1860
+4,최종 Test,68,82,1861
