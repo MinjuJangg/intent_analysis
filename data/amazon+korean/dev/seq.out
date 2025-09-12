@@ -1,0 +1,1860 @@
+O B-뉴스_주제 O
+B-장소_이름 O B-교통_유형 O O O
+O B-메뉴 I-메뉴 B-수량 I-수량 O B-메뉴 I-메뉴
+B-메뉴 I-메뉴 O O
+B-메뉴 O O O O
+O B-제품 O O
+B-장치_유형 I-장치_유형 I-장치_유형 O O
+B-사람 O O O O
+O B-날짜 B-이벤트_이름 I-이벤트_이름 O
+B-메뉴 I-메뉴 O O O O O
+O O O O B-재질 O
+B-제품 O
+B-장소_이름 O O O
+O B-메뉴 B-수량 O
+B-재료 O B-재료 O
+B-사람 O O
+O O B-재료 O O O
+B-게임_이름 I-게임_이름 O
+O B-색상 O O O
+B-시간대 O O O O
+B-소재 O O O
+B-음식_유형 O O
+B-장소_이름 I-장소_이름 O O O O
+O O B-재질 O B-재질 O
+O B-제품 O B-제품 I-제품 O O
+B-미디어_유형 I-미디어_유형 O O O O
+B-메뉴 I-메뉴 O O
+O B-결제수단 O
+O O O B-제품 O O O
+O O B-메뉴 O O O
+O B-날짜 B-날씨_설명 I-날씨_설명 O O
+B-메뉴 I-메뉴 O O
+B-날짜 B-시간대 B-시간 I-시간 O O O
+O O O O O O B-미디어_유형 I-미디어_유형
+O B-날짜 I-날짜 O O O
+B-아티스트_이름 O B-노래_이름 O
+O B-목록_이름 O O
+O B-사이즈 O O
+O B-성별 O B-성별 O
+B-메뉴 O O O O
+B-시간 O O B-날씨_설명
+O O O O B-아티스트_이름 O O
+O B-교통_유형 O O
+B-목록_이름 O O O O
+B-뉴스_주제 O O O
+O B-금액 O O
+B-소재 O O O O
+B-방종류 I-방종류 O O O O
+O O O O O B-비즈니스_유형 I-비즈니스_유형 O
+B-제품 O O O B-제품 O
+B-요일 B-요일 B-요일 O O
+O O B-메뉴 O
+B-재료 O O O O
+O B-제품 O O O
+B-날짜 I-날짜 O B-기간 O O O
+O O O O B-색상_유형 O O
+O O O B-관계 O B-이벤트_이름 O
+B-정의_단어 I-정의_단어 I-정의_단어 O O O
+B-비즈니스_이름 B-주문_유형 O O O
+O O O B-관계 O O O
+O B-비즈니스_유형 B-주문_유형 O
+O B-색상 O O
+B-메뉴 O O
+O O O B-관계 O O O
+B-색상 O
+O B-시간 I-시간 I-시간 B-이벤트_이름 O
+B-장소_이름 O O O B-날씨_설명
+O B-사람 B-날짜 B-이벤트_이름 O O O O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 O
+O B-날짜 O B-이벤트_이름 I-이벤트_이름 O
+O O O B-방종류 O
+B-장소_이름 I-장소_이름 O B-이벤트_이름 O O O
+B-제품 O O O
+B-메뉴 I-메뉴 O O
+B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 B-날짜 I-날짜 O O
+B-사람 O O O
+O B-메뉴 O
+O O B-날짜 I-날짜 B-이벤트_이름 O
+B-아티스트_이름 O O O O O O
+O B-비즈니스_이름 B-음식_유형 I-음식_유형 O
+B-메뉴 I-메뉴 O
+O B-시간 O O O O O O
+O B-시간대 B-시간 I-시간 O O O O O
+B-사람 O O O O O O O
+O O B-장소_이름 O O O O
+O O B-기간 I-기간 O O O O O O O O O O
+B-날짜 B-날씨_설명 O O
+B-결제수단 O B-결제수단 O O
+O O O O O O B-날짜 B-이벤트_이름 I-이벤트_이름 O
+B-음식_유형 O O O
+B-집_장소 O
+B-집_장소 O O O
+B-날짜 I-날짜 O O
+B-미디어_유형 O O O O
+O B-수량 O
+B-날짜 B-시간 I-시간 I-시간 O O O O
+B-메뉴 O O O O O
+B-시간 I-시간 O B-이벤트_이름 O O O
+B-오디오북_이름 O O O O
+B-장소_이름 I-장소_이름 B-날짜 O O
+O B-시간대 O B-이벤트_이름 I-이벤트_이름 O O
+B-메뉴 B-수량 I-수량 O
+B-메뉴 I-메뉴 O B-재료 O O O O
+B-장소_이름 O O O O
+B-시간대 I-시간대 B-시간 I-시간 I-시간 O O
+B-시간 I-시간 B-이벤트_이름 O
+B-장소_이름 I-장소_이름 O O O
+O B-제품 O B-사이즈 O O
+B-시간 I-시간 O B-이벤트_이름 I-이벤트_이름 O
+O B-사람 O O
+B-장치_유형 I-장치_유형 O
+B-사람 O O O O
+O O B-플레이어_설정
+O O B-플레이어_설정 O
+B-날짜 O O
+B-시간 I-시간
+B-사람 O B-이벤트_이름 I-이벤트_이름 O
+O B-제품 O
+B-날짜 B-시간 I-시간 I-시간 O O O O
+O B-음료 O
+B-뉴스_주제 O O O
+O B-재료 O
+B-사이즈 I-사이즈 O O
+B-목록_이름 I-목록_이름 O O
+O B-사이즈 O O O
+B-이벤트_이름 O O O O O O
+B-장소_이름 I-장소_이름 O O
+O O O O O O O O O B-미디어_유형 B-비즈니스_이름 O
+B-아티스트_이름 O O
+B-시간 I-시간 O O O O O O O
+O B-장소_이름 O O O
+O B-인원 O O O O
+B-아티스트_이름 I-아티스트_이름 O O O
+O B-인원 I-인원 O
+B-메뉴 O B-온도 O O
+B-사람 O O
+B-숙박시설종류 O O O O O O
+O B-메뉴 O O
+B-사람 O O B-개인_정보 I-개인_정보 O
+B-인원 O O
+O B-변경_금액 O
+B-메뉴 I-메뉴 B-수량 O
+B-이벤트_이름 O
+B-온도 B-메뉴 B-온도 B-메뉴 O O O
+O O B-사이즈 O
+B-메뉴 O O O O
+O B-색상 B-제품 O O O O O
+B-음식_유형 O O O O
+B-시간 I-시간 B-일자 O B-사람수 O O O
+O O B-시간 I-시간 O
+O B-메뉴 O
+B-집_장소 O O O
+B-시간 I-시간 O B-대상 O B-횟수 I-횟수 O O
+O B-제품 O
+O O O O B-제품 O O
+B-사람 O O O O O
+B-날짜 I-날짜 O B-날씨_설명 I-날씨_설명 O O
+B-시간 O O
+B-교통_유형 O O O O O
+O B-날씨_설명 O O
+O B-제품 O
+O B-시간 O O
+B-날짜 I-날짜 O B-날씨_설명 I-날씨_설명
+B-음식_유형 I-음식_유형 O O B-음식_유형 O
+O O B-이벤트_이름 I-이벤트_이름 O
+O B-수량 I-수량 O O O
+B-비즈니스_이름 O O O
+O O B-음식_유형 O O
+B-커피_유형 O
+B-사람 B-날짜 I-날짜 I-날짜 I-날짜 I-날짜 I-날짜 B-시간 I-시간 I-시간 O B-장소_이름 B-이벤트_이름 I-이벤트_이름 O O
+B-앱_이름
+B-메뉴 O O O
+B-일반_빈도 B-이벤트_이름 I-이벤트_이름 O O O
+B-온도 B-메뉴 O O
+B-아티스트_이름 O O
+B-제품 O O O
+B-날짜 O O O O
+B-소재 O O
+B-팟캐스트_설명 I-팟캐스트_설명 O O
+O B-화폐_이름 O O B-화폐_이름 I-화폐_이름 O O O
+O B-장소_이름 B-뉴스_주제 O O
+B-비즈니스_이름 I-비즈니스_이름 O O O B-미디어_유형 O
+B-아티스트_이름 O
+O B-메뉴 O O B-메뉴 O O O
+B-날짜 O O B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O
+B-인원 O O O O O
+B-메뉴 I-메뉴 O O O O
+B-날짜 O B-날씨_설명 O
+B-메뉴 O O
+B-집_장소 O O B-색상_유형 O
+B-음식_유형 O
+O B-제품 O O
+B-음악_설명 I-음악_설명 O
+B-정의_단어 I-정의_단어 I-정의_단어 O O O O
+B-온도 O O
+O B-장치_유형 I-장치_유형 O O
+O O B-색상 B-사이즈 O O
+B-사람 O O O
+B-사람 I-사람 O O
+B-비즈니스_이름 O
+O B-소재 O O
+B-메뉴 O O O O O
+O B-팟캐스트_설명 I-팟캐스트_설명 O
+B-날짜 O B-날씨_설명 O
+B-장소_이름 O O O
+O O B-비즈니스_이름 O O O O
+O O O B-제품 O
+B-메뉴 O O O
+B-메뉴 O O O
+B-일반_빈도 B-시간 I-시간 I-시간 I-시간 I-시간 I-시간 O O O O O O
+B-미디어_유형 I-미디어_유형 I-미디어_유형
+O O O B-제품 O O
+B-사람 O O O
+B-목록_이름 O O
+B-대상 O O O O
+B-커피_유형 O O O O
+O O B-음식_유형 O O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 O O O O
+B-시간 I-시간
+B-메뉴 O B-메뉴 O O O O
+O B-메뉴 I-메뉴 O O O O
+B-온도 O O B-재료 B-수량 O O
+B-뉴스_주제 O O
+B-메뉴 O O O O O
+B-사이즈 O O O
+O O B-재질 O
+O O O O O O
+B-장소_이름 O
+B-장소_이름 O O O
+B-인원 I-인원 O O O O O O O
+B-수량 I-수량 O O
+B-방종류 I-방종류 O O O
+B-메뉴 O O
+B-날짜 B-이벤트_이름 O O O O
+B-메뉴 O O
+B-시간 I-시간 O O O O
+B-게임_이름 O O
+B-시간 B-뉴스_주제 I-뉴스_주제 I-뉴스_주제 O O O O
+B-적립수단 I-적립수단 O O
+B-메뉴 I-메뉴 B-수량 I-수량 O O
+B-메뉴 O B-메뉴 O B-수량 I-수량 O
+B-아티스트_이름 O
+B-메뉴 O O
+B-날짜 B-시간 I-시간 B-시간대 B-이벤트_이름 O
+B-팟캐스트_이름 B-팟캐스트_설명 I-팟캐스트_설명 O O
+B-메뉴 O O O O O
+O B-대상 O O
+O B-색상 O
+O B-메뉴 O O O O O
+O B-메뉴 B-수량 O
+O O O B-영화_유형 I-영화_유형 O O
+B-날짜 I-날짜 B-이벤트_이름 I-이벤트_이름 O
+B-메뉴 O O O O O
+B-사람 O O O O
+B-시간대 O B-시간 I-시간 O B-장소_이름 O O O
+O B-게임_이름 O
+O B-노래_이름 I-노래_이름 O
+B-음식_유형 I-음식_유형 O
+B-날짜 I-날짜 I-날짜 I-날짜 O O
+B-날짜 O O O O
+O B-장소_이름 O O B-교통_유형 O O
+B-날짜 B-비즈니스_이름 O O O
+O B-목록_이름 O O
+B-요일 O O B-요일 O O
+O B-장치_유형 I-장치_유형 O O
+O B-시간 O O
+B-사람 O O O O O O O O O
+B-요일 O B-인원 O
+B-장소_이름 O O
+B-재질 O O
+O B-날짜 O O O
+O B-관계 O O
+B-제품 O O
+B-시간 I-시간 I-시간 I-시간 O O O
+B-집_장소 O O O
+O O B-재료 O O
+B-대상 O B-대상 O
+O O B-음료 O
+O B-수량 O
+O O B-사이즈 O B-사이즈 O
+B-제품 O
+O O B-색상 O
+O B-목록_이름 O O
+B-메뉴 B-수량 O O
+B-날짜 I-날짜 O B-날짜 O O O O O O
+O B-제품 O O O
+B-시간대 B-시간 I-시간 O O O O
+B-집_장소 O B-색상_유형 O O
+B-미디어_유형 O O O
+O B-메뉴 O O
+B-온도 B-메뉴 B-수량 I-수량 O O O B-수량 I-수량 O
+B-날짜 O O
+B-토핑 O B-메뉴 I-메뉴 O O O
+B-메뉴 O O
+B-메뉴 O B-재료 I-재료 O
+B-메뉴 O O
+B-미디어_유형 B-플레이어_설정 I-플레이어_설정
+B-시간 O O O O O O O O O
+B-메뉴 O B-재료 O
+B-재료 O
+B-기간 O B-횟수 I-횟수 O
+O O O B-재료 O B-재료 O
+O O B-수량 O O O O O
+B-메뉴 B-메뉴 O O
+B-메뉴 O B-음료 B-음료 O O O
+B-장소_이름 O B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 O O O B-시간 I-시간 O O
+B-기간 I-기간 O O O O
+B-음료 O O
+B-교통_유형 O B-장소_이름 O B-장소_이름 O B-교통_설명자 O O O O
+B-메뉴 O O O O O O
+B-메뉴 O O O
+B-시간 I-시간 O O
+O B-제품 O O O O
+B-날짜 I-날짜 I-날짜 O B-날씨_설명 I-날씨_설명 I-날씨_설명
+B-대상 O
+B-날짜 B-날씨_설명 O O
+B-메뉴 O O O
+O B-메뉴 O
+O B-성별 O
+B-뉴스_주제 O O O
+O O O B-시간 I-시간 O O O
+B-메뉴 O O O
+B-뉴스_주제 I-뉴스_주제 O O O O
+B-메뉴 O B-메뉴 O O O
+B-메뉴 O O O
+O O B-정의_단어 O O
+B-구이음식종류 O O O O
+O O O O B-관계 O O O
+B-오디오북_이름 I-오디오북_이름 B-플레이어_설정
+B-날짜 I-날짜 B-시간 I-시간 I-시간 B-이벤트_이름 O O
+O B-메뉴 I-메뉴 O O O B-메뉴 B-수량 O
+B-토핑 O O
+B-비즈니스_이름 O O O O O O
+B-날짜 O O O O O
+B-색상 O O O O O O O
+B-메뉴 O O O O
+B-대상 O
+B-음식_유형 I-음식_유형 O O O
+B-메뉴 B-수량 I-수량 B-메뉴 B-수량 B-메뉴 B-수량 B-메뉴 B-수량 I-수량 O
+O B-목록_이름 I-목록_이름 O O
+B-기간 O O
+B-기간 O O O
+B-날짜 B-미디어_유형 O O O
+B-메뉴 B-수량 I-수량 O
+B-날짜 B-시간 I-시간 I-시간 O B-이벤트_이름 O B-사람 O O
+O O B-메뉴 O O O O O O
+O B-게임_이름 O O O O O
+B-사람 O O O O
+B-날짜 I-날짜 B-이벤트_이름 I-이벤트_이름 O
+B-메뉴 B-온도 O O
+B-장소 O
+B-재료 O O B-메뉴 I-메뉴 O O
+O B-소재 O O O O O
+B-메뉴 O O O
+B-날짜 I-날짜 B-장소_이름 O O
+B-음료_유형 B-음식_유형 O O
+B-집_장소 O O B-플레이어_설정 I-플레이어_설정
+B-인원 O O
+B-목록_이름 I-목록_이름 O O O
+B-메뉴 O O
+B-메뉴 I-메뉴 O O O
+B-온도 B-메뉴 O O
+O B-음악_장르 O
+O O B-미디어_유형 B-비즈니스_이름 I-비즈니스_이름 O
+O O O O O O
+B-메뉴 O O O O
+O O O O O B-노래_이름 I-노래_이름 O
+O B-음식_유형 B-비즈니스_유형 O
+O B-날짜 B-사람 O B-이벤트_이름 O O O O
+B-재료 I-재료 O B-메뉴 O B-음료 O O O
+O B-재료 O O O
+B-사람 B-날짜 B-이벤트_이름 O O O O
+B-장소_이름 O B-교통_이름 I-교통_이름 I-교통_이름 O O O O
+B-온도 O O
+B-사람 O O
+O B-게임_이름 O
+O B-시간 O
+B-정의_단어 O
+B-집_장소 O O O
+B-목록_이름 I-목록_이름 O O O
+O O B-날씨_설명
+B-날짜 O
+B-날짜 I-날짜 B-시간 I-시간 I-시간 O B-사람 O B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O
+B-장소_이름 O O O
+B-연령대 B-인원 I-인원 O O O O O O
+O B-제품 O O O O
+B-소재 O
+O O O O B-비즈니스_이름 I-비즈니스_이름 B-미디어_유형 O
+B-시간 B-일반_빈도 B-시간 I-시간 O O O O
+B-대상 I-대상 O B-과목 O O O
+B-팟캐스트_이름 O O
+B-재료 O O O
+B-아티스트_이름 O O O
+B-날짜 I-날짜 B-사람 B-이벤트_이름 O O O O
+B-음식_유형 O B-주문_유형 O
+B-집_장소 O O O
+B-비즈니스_이름 O O O
+B-메뉴 O O
+O B-이벤트_이름 O O O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 O O
+O B-사이즈 O
+O B-이벤트_이름 O O O
+B-식사_유형 O B-음식_유형 O O
+B-일반_빈도 I-일반_빈도 O B-시간 I-시간 B-사람 O O
+B-제품 O O O
+B-뉴스_주제 I-뉴스_주제 O O
+B-사람 O
+O O O O O B-사이즈 I-사이즈 O O
+B-시간대 I-시간대 O B-날씨_설명 I-날씨_설명 O O
+B-온도 O
+B-음료 B-수량 O
+B-날짜 O O O
+B-날짜 B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 O B-사람 O O O
+B-뉴스_주제 O O O O
+B-이벤트_이름 O O O
+O B-이벤트_이름 I-이벤트_이름 O
+B-시간 I-시간 I-시간 O B-장소_이름 O O B-교통_유형 O O O
+O B-메뉴 I-메뉴 O
+O B-메뉴 B-수량 O B-메뉴 B-수량 I-수량 O O
+B-팟캐스트_이름
+O B-제품 O O
+O O B-사람 O O O
+B-결제수단 O O O
+B-관계 O O O O
+O B-장소_이름 B-날짜 I-날짜 O B-장소_이름 I-장소_이름 I-장소_이름 I-장소_이름 O
+B-날짜 I-날짜 O B-관계 B-이벤트_이름 O O
+B-날짜 I-날짜 O B-이벤트_이름 O
+B-날짜 I-날짜 B-사람 O O
+O B-음료 B-음료 O O O
+B-인원 O
+B-장소_이름 O B-장소_이름 O O
+B-사람 O O O
+O O O B-교통_기관 O O O
+B-적립수단 O
+B-장치_유형 I-장치_유형 O
+B-장소_이름 O O O B-교통_유형 O O
+O O B-사람 B-개인_정보 O
+B-메뉴 O O
+O B-메뉴 O O O
+B-메뉴 O O O
+O O O O B-미디어_유형 I-미디어_유형
+B-시간 I-시간 I-시간 O
+B-정의_단어 O O O O O O O
+O O O O B-노래_이름 O
+B-장소_이름 O O
+B-방종류 I-방종류 O O
+B-날짜 O B-이벤트_이름 I-이벤트_이름 O
+B-게임_이름 O O O O O O
+O B-날짜 B-시간 I-시간 B-사람 O B-이벤트_이름 O
+B-장소_이름 I-장소_이름 I-장소_이름 I-장소_이름 O O O O B-교통_유형 O O O O O
+B-요일 B-요일 O O
+B-날짜 B-날씨_설명 O
+B-미디어_유형 O B-비즈니스_이름 O O O
+B-장치_유형 I-장치_유형 O
+B-기간 O O
+O O O B-날씨_설명 I-날씨_설명 O O O O
+O B-메뉴 O
+B-미디어_유형 B-플레이어_설정 O
+B-메뉴 O O
+B-메뉴 O O O
+B-장치_유형 I-장치_유형 O O
+B-비즈니스_이름 O O B-미디어_유형 O
+O B-온도 B-메뉴 O B-사이즈 I-사이즈 O O
+O B-제품 O O
+O O O O O B-비즈니스_유형 O
+B-메뉴 B-수량 I-수량 O
+B-메뉴 O O O
+B-색상 B-제품 O O O O
+O B-온도 B-메뉴 B-사이즈 O B-수량 I-수량 O
+B-이벤트_이름 I-이벤트_이름 O
+B-메뉴 I-메뉴 O O O O
+B-목록_이름 I-목록_이름 O O O
+O B-소재 O
+B-날짜 B-장소_이름 O B-날씨_설명 I-날씨_설명 I-날씨_설명 I-날씨_설명 I-날씨_설명
+B-라디오_이름 I-라디오_이름 O
+B-오디오북_이름 I-오디오북_이름 O
+B-시간 I-시간 O O O O O O O O O O
+B-날짜 I-날짜 O O B-인원 I-인원 O O O O O O
+O B-날씨_설명
+B-메뉴 I-메뉴 O O O O O O O
+B-정의_단어 O O O O
+B-미디어_유형 O
+B-제품 O O
+B-인원 I-인원 O
+B-날짜 B-이벤트_이름 I-이벤트_이름 O O O O O
+B-구이음식종류 O O O O O
+B-사람 O O O
+B-시간 I-시간 B-이벤트_이름 O O O O
+B-음악_장르 O O
+O B-미디어_유형 I-미디어_유형 B-미디어_유형 O O O
+B-날짜 O O
+B-목록_이름 I-목록_이름 O O O O O
+B-아티스트_이름 O B-노래_이름 O O
+B-일자 B-시간 O O O O
+B-날짜 B-시간 O B-장소_이름 O O O O O O
+O B-요일 O O
+B-노래_이름 O
+B-과목 O O
+B-대상 O O B-대상 O B-과목 O O O O
+B-음악_장르 O O
+B-장소_이름 O O O O
+O B-미디어_유형 O O O O
+B-메뉴 I-메뉴 I-메뉴 O O
+B-메뉴 B-온도 O O B-수량 O
+B-횟수 I-횟수 O O O O O
+O O B-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 O
+B-음식_유형 O O O O
+B-시간 I-시간 O O O O O O O O O
+B-날짜 O O O O
+B-미디어_유형 O O O
+B-미디어_유형 I-미디어_유형 O
+O O O B-날짜 B-시간대 B-시간 I-시간 I-시간 I-시간 O O
+B-메뉴 O O O
+B-날짜 B-이벤트_이름 O O
+B-소재 O
+B-음식_유형 I-음식_유형 O O O B-비즈니스_유형 O O
+B-메뉴 O O
+B-팟캐스트_이름 O O
+O O B-이벤트_이름 I-이벤트_이름 O O O
+B-색상 O O O O O
+B-메뉴 O
+O O B-시간 I-시간 I-시간 I-시간 B-날씨_설명 O
+O O B-결제수단 O O
+B-이벤트_이름 B-날짜
+B-미디어_유형 I-미디어_유형 I-미디어_유형 I-미디어_유형 O O O O
+O O B-색상 O O
+B-메뉴 O
+B-메뉴 O
+O O B-이벤트_이름 O
+B-음식_유형 O O B-음식_유형 O O O
+B-정의_단어 O O O
+B-비즈니스_이름 I-비즈니스_이름 O O O O B-음식_유형 O O
+B-메뉴 O
+O B-이메일_폴더 O O O O O
+O B-관계 I-관계 B-개인_정보 I-개인_정보 O O
+B-장소_이름 O O O
+B-뉴스_주제 O O O
+B-사람 O O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 O B-라디오_이름 I-라디오_이름 I-라디오_이름 O
+B-제품 O O O O O
+O O O B-메뉴 O
+O B-장소_이름 O O O O
+B-온도 O O
+O B-인원 I-인원 O
+O O O O B-오디오북_이름 O O
+B-색상 O O
+B-사람 B-날짜 O O O
+B-연령대 B-인원 I-인원 O O O O
+B-메뉴 O B-사이즈 O O
+B-시간대 I-시간대 B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 O O
+O B-수량 O
+B-정의_단어 O O O
+B-메뉴 B-수량 O B-메뉴 B-수량 O
+O O O B-온도 O O O
+O O B-플레이어_설정
+B-목록_이름 O O
+O B-사이즈 O O
+B-시간대 I-시간대 B-장소_이름 O B-날씨_설명 O O O
+O O O O O O O B-제품 O O
+B-성별 O
+B-시간 I-시간 O O B-교통_유형 O O O O
+B-시간 I-시간 I-시간 O O O O O O
+B-메뉴 I-메뉴 O O
+B-재료 O
+B-사람 O O
+O O O O B-색상 O O
+O B-시간대 I-시간대 B-장소_이름 O O B-교통_유형 O O
+B-온도 B-메뉴 O B-메뉴 B-수량 I-수량 O O
+B-날짜 O
+B-뉴스_주제 O O O O
+B-메뉴 O O
+B-날짜 O B-장소_이름 O O O O O
+O O O O O B-비즈니스_이름 I-비즈니스_이름 O B-미디어_유형 O
+B-장소_이름 I-장소_이름 O O O
+B-시간 I-시간 B-요일 O O O O
+O B-메뉴 O
+B-메뉴 O O O B-토핑 O O
+B-사람 O O
+B-음료 O B-음료 O O
+O B-숙박시설종류 O B-이동수단 O O O
+B-날짜 O
+O B-메뉴 O
+B-화폐_이름 O B-화폐_이름 O
+B-과목 O O O
+B-재료 O O
+O B-농담_유형 O
+B-메뉴 B-수량 I-수량 O
+O B-사이즈 I-사이즈 O B-수량 I-수량 O
+B-기간 O O
+B-온도 O O
+B-오디오북_이름 B-미디어_유형 B-플레이어_설정
+O B-제품 B-제품 B-제품 O
+B-사람 O O O O
+B-교통_기관 B-교통_유형 O
+B-메뉴 O O B-메뉴 O O O
+B-날짜 I-날짜 B-장소_이름 O O
+B-숙박시설종류 O O O
+B-아티스트_이름 O
+B-사람 O O O O
+O B-온도 B-메뉴 O
+B-비즈니스_이름 O O O O O O
+B-미디어_유형 O O O
+B-날짜 O O
+O B-온도 O O O
+B-메뉴 I-메뉴 O O O
+B-메뉴 I-메뉴 I-메뉴 O O
+B-시간대 I-시간대 O O O
+B-장소_이름 O O O O O
+B-메뉴 O O
+O B-메뉴 O O
+O B-수량 O B-음료 O
+B-날짜 I-날짜 O O O B-날짜 I-날짜 I-날짜 B-시간 I-시간 O B-이벤트_이름 O O
+O B-메뉴 I-메뉴 O B-음료 O O
+B-제품 O O
+B-메뉴 O
+O B-색상_유형 O O O
+O O O B-미디어_유형 O O
+B-날짜 O B-이벤트_이름 O O
+B-시간대 O B-날씨_설명 O O
+B-메뉴 O O O
+B-인원 I-인원 O
+B-날짜 I-날짜 O O O
+B-메뉴 O O O
+B-팟캐스트_설명 O O
+B-메뉴 B-맛 O
+O O O O B-비즈니스_유형 O
+O B-음료 O O O O
+B-토핑 O O
+B-정의_단어 O O
+B-제품 O O O O O
+O B-제품 O O O O O O O
+O B-날짜 B-이벤트_이름 I-이벤트_이름 O
+O O B-색상 B-제품 O
+O O B-음식_유형 I-음식_유형 O O
+B-시간대 O O
+B-인원 I-인원 O O
+O O B-재료 O
+B-날짜 O
+B-온도 O B-메뉴 O O O
+B-장소_이름 O O
+B-음식_유형 I-음식_유형 O O
+B-메뉴 O O O O
+O B-시간 I-시간 O O
+B-날짜 I-날짜 I-날짜 B-시간 I-시간 O O O
+O O O B-요일 O O
+B-일반_빈도 I-일반_빈도 I-일반_빈도 I-일반_빈도 I-일반_빈도 O O O O
+B-라디오_이름 O O
+O O B-재료 I-재료 O O
+B-장소_이름 O O O O O O
+O B-장치_유형 I-장치_유형 O
+O B-메뉴 O B-메뉴 O O
+B-메뉴 O
+B-장소_이름 O O B-비즈니스_유형 O
+B-날짜 B-시간 I-시간 I-시간 O O O O
+B-색상 O O O
+B-기간 O O O
+O O B-사람 O O O O O O
+B-기간 O O
+B-메뉴 O O O O
+B-사람 O O O
+B-날짜 B-이벤트_이름 O
+B-게임_이름 O
+B-사이즈 I-사이즈 O O
+B-날짜 O B-날씨_설명 I-날씨_설명
+B-사람 O O O O O
+B-날짜 B-시간 I-시간 O B-이벤트_이름 I-이벤트_이름 O
+B-장소_이름 O O O
+B-음악_장르 O O O O
+B-날짜 O
+B-음악_설명 I-음악_설명 O O O O
+O B-미디어_유형 O O O O O
+B-주문_유형 O O
+B-소재 O O O O O O
+O B-플레이어_설정
+B-날짜 B-시간대 O O O
+O B-사이즈 I-사이즈 I-사이즈 O O O O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 B-미디어_유형
+B-방종류 O O O
+B-팟캐스트_이름 I-팟캐스트_이름 I-팟캐스트_이름 I-팟캐스트_이름 O O O
+B-제품 O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 O O O O O
+O B-관계 O O
+B-교통_유형 O
+B-사람 I-사람 O O O O
+B-장소_이름 O O B-교통_유형 O
+B-시간 O B-시간 O O
+B-날짜 O O
+B-장소_이름 O O O
+B-오디오북_이름 I-오디오북_이름 B-플레이어_설정 I-플레이어_설정
+O O O O O B-음악_설명 I-음악_설명 I-음악_설명 O
+B-커피종류 I-커피종류 O O O O O
+O B-관계 O O
+B-결제수단 O
+O O B-수량 O B-메뉴 O
+O B-구이음식종류 O O O
+B-장소_이름 O O O O
+B-메뉴 O B-메뉴 O O O
+B-메뉴 O O
+O B-비즈니스_유형 B-주문_유형 O O O
+B-오디오북_이름 I-오디오북_이름 B-플레이어_설정 I-플레이어_설정
+B-인원 O O O O
+O B-음악_장르 O O
+B-정의_단어 I-정의_단어 O O
+B-사람 B-날짜 O O O O O O O O B-이벤트_이름 O O
+B-장소_이름 O O O O
+O O B-색상_유형 I-색상_유형 O
+B-비즈니스_이름 B-주문_유형 O O O
+B-날짜 B-시간 I-시간 O O O
+B-사람 B-날짜 O
+O B-날짜 O O O
+B-날짜 B-시간대 B-이벤트_이름 O O
+O B-아티스트_이름 O O
+B-음악_장르 O O O
+B-날짜 O B-이벤트_이름 O
+B-정의_단어 O O O
+B-날짜 O O O O
+O B-제품 O O O
+B-장소_이름 O O O
+O B-제품 O O O O
+B-팟캐스트_설명 I-팟캐스트_설명 O
+B-정의_단어 O O O
+B-날짜 B-시간 I-시간 B-사람 B-이벤트_이름 O
+B-메뉴 B-수량 O
+B-메뉴 I-메뉴 O
+O O B-미디어_유형 O O
+O B-메뉴 B-수량 O
+B-집_장소 O O O O
+B-팟캐스트_설명 I-팟캐스트_설명 O
+B-메뉴 I-메뉴 O
+O B-메뉴 I-메뉴 O O
+O B-인원 O
+O B-날짜 O O O O O
+O B-날짜 O O O O O O
+O O B-날짜 B-시간 I-시간 B-사람 O
+B-장소_이름 O O O O
+B-날짜 I-날짜 O O O
+B-연령대 O B-인원 I-인원 O
+B-결제수단 O
+B-장소_이름 O B-비즈니스_유형 O O
+B-메뉴 B-수량 I-수량 B-메뉴 B-수량
+B-사람 O O O
+B-비즈니스_이름 O B-주문_유형 O O
+B-장소_이름 O O O
+O O B-오디오북_이름 O O
+B-온도 O B-온도 O O O O
+O B-관계 B-사람 O O O
+B-비즈니스_이름 B-주문_유형 O O
+B-날짜 B-이벤트_이름 I-이벤트_이름 B-관계 B-이벤트_이름 O O
+B-이메일_주소 I-이메일_주소 I-이메일_주소 B-사람 O O O
+O B-메뉴 I-메뉴 O O
+O B-제품 O O O O
+B-음료_유형 O O O
+B-날짜 I-날짜 O O B-음악_장르 O O O
+B-커피종류 I-커피종류 O O O
+O O B-수량 O
+B-목록_이름 O O O O O
+O O O O B-비즈니스_유형 I-비즈니스_유형 O
+B-메뉴 O O B-메뉴 O O O
+O B-메뉴 O O O
+O O B-수량 I-수량 O
+B-미디어_유형 I-미디어_유형 O B-뉴스_주제 O O
+B-정의_단어 O O O O O
+O O B-사람 I-사람 B-이벤트_이름 I-이벤트_이름 O
+O O B-음식_유형 I-음식_유형 O O O O
+B-사람 O O O
+B-음식_유형 O O
+B-제품 O O O O
+B-사람 O O O O O
+B-메뉴 O B-수량 I-수량 O O
+B-인원 I-인원 O
+O B-재질 O
+B-메뉴 O B-토핑 I-토핑 O O O
+B-제품 B-사이즈 O O O
+B-메뉴 O O O O
+B-정의_단어 I-정의_단어 O O O
+B-사람 O O O
+B-날짜 B-시간 I-시간 B-사람 O B-이벤트_이름 O O O
+B-메뉴 O O B-음료 O
+O B-색상 B-제품 B-사이즈 O O
+B-날짜 I-날짜 I-날짜 B-날짜 B-시간 I-시간 B-이벤트_이름
+O B-날짜 I-날짜 O O O O
+O B-메뉴 I-메뉴 O O O O
+O B-교통_유형 O O
+B-색상 B-제품 O B-사이즈 O O O O
+B-사람 O O O O O
+B-날짜 I-날짜 B-시간 I-시간 I-시간 B-이벤트_이름 O
+B-날짜 I-날짜 B-이벤트_이름 O O O
+B-구이음식종류 O B-수량 I-수량 O O O
+O B-커피_유형 O O
+B-사람 O O O O
+B-날짜 B-시간 I-시간 I-시간 B-날씨_설명 O O
+O O O O O O O O O O O B-메뉴 O O
+B-날씨_설명 I-날씨_설명 I-날씨_설명 I-날씨_설명 O
+B-메뉴 O O
+B-사람 O O O
+O B-날짜 O B-장소_이름 O B-교통_유형 O O O B-시간
+O B-메뉴 I-메뉴 O B-음료 O B-음료 O O O O
+B-사람 O O
+B-날짜 B-비즈니스_이름 O O
+B-온도 B-메뉴 O B-메뉴 O
+B-제품 O O O
+O B-시간 O
+O B-장소_이름 O B-교통_유형 O
+B-제품 O O O
+O B-일반_빈도 I-일반_빈도 B-이벤트_이름 O
+O B-사이즈 O O
+B-날짜 O O
+B-제품 O O O
+B-사이즈 O O O O
+O B-소재 O
+B-장소_이름 O O B-날씨_설명
+O O O O B-날짜 O O
+B-시간 I-시간 I-시간 O O
+O O B-날짜 B-장소_이름 O O O O O O
+O B-소재 O O
+B-장소_이름 O O O
+O O O O B-음식_유형 B-주문_유형 O O
+O B-시간대 B-이벤트_이름 O O O O O
+O O B-재질 O
+O B-수량 I-수량 O O
+O B-수량 O
+B-사람 O O O
+O B-메뉴 I-메뉴 I-메뉴 O O
+B-메뉴 O
+B-날짜 B-이벤트_이름 I-이벤트_이름 O O
+O B-장소_이름 O O O O
+B-날짜 I-날짜 B-이벤트_이름 I-이벤트_이름 O O
+O O B-날씨_설명 O
+B-사람 O O O
+B-재료 O O O
+B-화폐_이름 I-화폐_이름 O O O
+B-제품 O O O O
+B-목록_이름 O O O
+O B-이벤트_이름 O O O O O O O
+B-인원 O O O
+B-메뉴 B-수량 I-수량 O B-메뉴 O O
+O B-장치_유형 O O O B-집_장소 O O O
+B-화폐_이름 O B-화폐_이름 I-화폐_이름 O O
+O O O B-사람 O O O
+O B-재료 O O O
+B-비즈니스_이름 O O O O O B-미디어_유형 O
+B-커피종류 O O
+O B-메뉴 O O
+O B-시간 I-시간 O O O
+B-날짜 O O O
+B-수량 I-수량 O
+O O O B-음료 O O
+B-날짜 B-시간 B-사람 O B-식사_유형 O
+B-목록_이름 O O O O
+O O O O B-색상 O O
+B-화폐_이름 O B-화폐_이름 O O O
+O B-음악_장르 I-음악_장르 O O
+B-시간 I-시간 O O O O
+O B-날씨_설명
+O B-관계 O O
+O B-노래_이름 I-노래_이름 I-노래_이름 O
+B-날짜 O O O
+B-시간 I-시간 B-사람 O B-식사_유형 O O O O
+O B-메뉴 O O
+B-날짜 O O O O O O O
+B-아티스트_이름 I-아티스트_이름 O O
+O B-사람 O B-개인_정보
+B-날짜 O O O B-장소_이름 O O B-교통_유형 O O O
+O B-음식_유형 O O O O O O
+B-커피종류 I-커피종류 O O
+B-메뉴 I-메뉴 I-메뉴 B-수량 O
+O B-사이즈 O
+B-날짜 O O O O O
+B-음료 O O
+B-메뉴 O O O
+B-메뉴 O O O
+B-인원 O O O O B-요일 O O O
+B-게임_이름 O
+O O B-이벤트_이름 O O
+B-게임_이름 O
+B-날짜 B-시간 I-시간 O B-이벤트_이름 O
+B-날짜 B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 O O
+B-장소_이름 O O O
+B-비즈니스_이름 B-식사_유형 B-주문_유형 O O
+O B-메뉴 O O O
+B-재료 O O O O
+B-색상_유형 O O O
+B-날씨_설명 O
+B-음식_유형 B-요리_유형 O O O
+B-정의_단어 I-정의_단어 I-정의_단어 O O
+B-재료 B-음식_유형 O O O
+B-토핑 O O O O
+B-성별 O
+O O O O O O B-메뉴 I-메뉴 O
+O O B-날짜 O B-목록_이름 I-목록_이름 O
+O B-음악_장르 O O O
+B-시간 I-시간 O O O
+B-메뉴 O O
+B-관계 I-관계 B-개인_정보 O
+O O B-제품 O O O
+O B-수량 O O O
+B-방종류 I-방종류 O O O
+O B-장소_이름 O O O O
+B-날짜 I-날짜 O O B-날씨_설명 I-날씨_설명
+B-날짜 I-날짜 O O O O
+B-관계 O O
+B-정의_단어 O O
+B-인원 I-인원 O B-수량 I-수량 O O O
+B-메뉴 O O
+B-날짜 O
+O B-시간 B-음악_설명 B-아티스트_이름 O O
+B-이벤트_이름 B-시간 I-시간 O O O
+B-날짜 O O O O
+O O B-이벤트_이름 O O O
+B-비즈니스_이름 O O O
+O B-미디어_유형 I-미디어_유형 O O O
+O B-색상 O
+B-사이즈 O O
+B-아티스트_이름 O B-노래_이름 O
+B-날짜 O O
+B-집_장소 I-집_장소 O O
+O O B-제품 O O O O O O
+B-날짜 O O
+B-장소_이름 O B-날짜 B-시간 I-시간 B-이벤트_이름 O O O
+O O B-소재 O
+B-음료 I-음료 O B-음료 O
+B-달 B-날짜 O B-수량 B-날짜 O O
+B-메뉴 O O
+B-온도 B-메뉴 O
+O B-팟캐스트_설명 I-팟캐스트_설명 O B-플레이어_설정
+O B-변경_금액 I-변경_금액
+B-목록_이름 I-목록_이름 O O O
+B-장소_이름 O O B-교통_유형 O O O
+O O B-교통_유형 O O O O O
+B-장치_유형 O O O
+B-음식_유형 O O
+O O B-제품 O
+O O B-날짜 B-교통_유형 O O O O
+B-메뉴 O O O O
+B-아티스트_이름 O
+B-시간대 O B-시간 I-시간 O O O
+B-메뉴 B-수량 O O O
+B-미디어_유형 O O
+O B-이벤트_이름 I-이벤트_이름 O O O O B-날짜 B-시간대 O O O
+B-연령대 B-인원 I-인원 O O
+B-장소_이름 O O O B-교통_유형 O O
+B-팟캐스트_이름 I-팟캐스트_이름 I-팟캐스트_이름 B-팟캐스트_설명 I-팟캐스트_설명 O
+O O O B-사이즈 O O O
+B-재질 O
+B-미디어_유형 O O
+O O B-메뉴 O O
+B-장소_이름 O O O O O
+O B-시간 O O O
+O B-사람 B-이벤트_이름 O O
+B-구이음식종류 O O O O O
+B-날짜 B-장소_이름 O B-교통_유형 O O
+B-대상 O O B-대상 O O O
+O O O B-관계 B-개인_정보 I-개인_정보 O
+B-집_장소 O O
+B-이벤트_이름 I-이벤트_이름 O O O O
+O B-교통_유형 O O O O O
+O B-색상 O O
+O B-구이음식종류 O O O
+B-제품 O O O
+B-미디어_유형 O
+B-팟캐스트_이름 O O
+B-날짜 I-날짜 B-미디어_유형 O O O
+B-사이즈 O O
+O B-날짜 B-이벤트_이름 I-이벤트_이름 O O O
+B-비즈니스_이름 O O O O O O
+B-미디어_유형 O O O O O
+B-목록_이름 I-목록_이름 O O
+B-날짜 B-시간 I-시간 B-사람 B-장소_이름 B-이벤트_이름 O
+B-장소_이름 O O
+O B-수량 O O
+B-정의_단어 O O O
+B-비즈니스_이름 O O O O B-미디어_유형 O
+B-사람 O O O O
+O B-시간대 O O
+O B-제품 O
+O O O B-기간 I-기간 O B-연령대 B-인원 O O O
+B-아티스트_이름 O B-노래_이름 O
+O B-음식_유형 O O O
+B-온도 B-메뉴 B-수량 I-수량 O O
+O B-메뉴 O B-재료 O O
+B-집_장소 O O
+B-음식_유형 O O
+B-장치_유형 I-장치_유형 O
+B-정의_단어 O O O
+B-날짜 I-날짜 O O O
+B-인원 I-인원 O O O
+B-날짜 O O O O O O
+B-메뉴 B-수량 O
+B-메뉴 B-수량 O O O
+B-온도 B-메뉴 O O
+B-메뉴 O O
+B-화폐_이름 O O O O O O
+O O B-라디오_이름 I-라디오_이름 I-라디오_이름 O
+B-온도 B-메뉴 B-수량 I-수량 O
+B-사람 O O O
+B-날짜 B-뉴스_주제 I-뉴스_주제 I-뉴스_주제 O
+B-음악_설명 I-음악_설명 O O
+B-정의_단어 O O
+B-비즈니스_이름 B-주문_유형 O
+O B-시간대 O B-날씨_설명 O O
+B-노래_이름 I-노래_이름 O O B-노래_이름 O
+O B-색상_유형 O O
+B-날짜 B-뉴스_주제 O O
+B-정의_단어 O O O O
+O B-색상_유형 O O
+B-장소_이름 O O O O
+O B-사이즈 I-사이즈 O
+O B-제품 O O
+B-음악_장르 O O O O
+B-장치_유형 I-장치_유형 O O O O
+O B-미디어_유형 O
+B-정의_단어 O O O
+B-장소_이름 O O O O O
+B-관계 B-시간대 I-시간대 O O O O O
+O O B-제품 O O O O
+B-이벤트_이름 I-이벤트_이름 O O O
+B-결제수단 O
+B-시간 I-시간 O B-인원 B-시간 O O O O
+O B-날짜 O O O
+B-사람 O O O
+B-성별 O O O O O B-대상 O
+B-재생목록_이름 I-재생목록_이름 I-재생목록_이름 O
+B-날짜 B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 O O
+B-비즈니스_이름 O O O
+B-사람 O O O O O O
+B-시간 O
+B-제품 O O
+B-메뉴 B-온도 O
+O B-비즈니스_이름 O O
+O B-사람 O O O O O O
+B-교통_기관 O O O
+B-사람 O O O
+B-라디오_이름 O
+B-메뉴 O O
+O O O O O B-시간
+B-날짜 I-날짜 I-날짜 O O O
+B-메뉴 O
+O O B-비즈니스_유형 I-비즈니스_유형 O
+B-장소_이름 I-장소_이름 O O O
+B-메뉴 O O O
+B-제품 O O
+B-시간 I-시간 I-시간 B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O O O
+B-날짜 I-날짜 B-비즈니스_유형 B-식사_유형 O
+O B-날짜 B-장소_이름 O O O O
+B-날짜 I-날짜 I-날짜 B-이벤트_이름 I-이벤트_이름 O O
+O B-사람 O O
+B-미디어_유형 B-플레이어_설정 I-플레이어_설정
+B-인원 I-인원 O O O
+B-날짜 B-날씨_설명 O O
+O O B-미디어_유형 O O O O B-미디어_유형 O
+B-색상 O O
+B-메뉴 I-메뉴 O O O
+B-날짜 O O O O
+B-장치_유형 I-장치_유형 B-시간 I-시간 O O
+B-정의_단어 O O O O O
+B-날짜 B-사람 O B-이벤트_이름 O O
+B-메뉴 I-메뉴 O O
+O B-이벤트_이름 I-이벤트_이름 O O O O
+B-장소 O O
+B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O O
+O B-메뉴 O O O O O O
+B-날짜 I-날짜 O O O
+B-사람 O O O O
+O O O B-제품 O O O O O O O O O
+B-비즈니스_이름 O O O O O O O O B-미디어_유형 I-미디어_유형
+B-날짜 B-시간 I-시간 B-이벤트_이름 O O O O
+O O B-비즈니스_유형 O
+B-음악_설명 I-음악_설명 O O
+O B-집_장소 O O
+O O B-음식_유형 I-음식_유형 O O O
+B-음식_유형 O O O O
+O B-시간 I-시간 O O O
+O B-제품 O
+O B-날짜 B-장소_이름 O O O B-이벤트_이름 I-이벤트_이름 O O O
+B-음식_유형 O O O
+B-사람 O O O O
+B-비즈니스_이름 B-주문_유형 O
+B-뉴스_주제 I-뉴스_주제 O O O O
+B-날짜 B-식사_유형 B-사람 O O
+B-날짜 B-시간 I-시간 B-이벤트_이름 O O
+B-시간 I-시간 B-장소_이름 B-이벤트_이름 O B-시간 I-시간 B-이벤트_이름 O O O O
+B-메뉴 B-수량 O
+B-메뉴 O O O O
+B-장소_이름 I-장소_이름 O O O O O O
+B-장소_이름 O O B-음식_유형 I-음식_유형 O
+B-재료 O O
+B-날씨_설명 B-시간대 B-날씨_설명 I-날씨_설명 O
+B-이동수단 O O
+B-날짜 B-시간 I-시간 I-시간 O O O O
+B-장치_유형 I-장치_유형 O O
+B-라디오_이름 I-라디오_이름 O
+B-사람 O O O O
+B-날짜 I-날짜 O O O
+B-인원 O O O O O
+B-사이즈 O B-제품 O O O O
+B-제품 O O O O O O O
+B-온도 B-메뉴 O
+O O O O B-수량 O O O O O O O
+O O B-소재 O B-소재 O
+B-메뉴 B-수량 I-수량 O
+B-장소_이름 O O O O
+O B-소재 O O O O
+B-구이음식종류 O O
+B-메뉴 I-메뉴 B-수량 O O B-메뉴 B-수량 O B-수량 I-수량 O O O O O
+B-뉴스_주제 O O O
+B-메뉴 B-수량 I-수량 O O O O O O
+B-날짜 B-시간 I-시간 I-시간 O O B-장소_이름 I-장소_이름 O O B-교통_유형 O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 O
+B-제품 O O O O
+O O B-시간 I-시간 O
+O B-메뉴 O O B-메뉴 O
+B-정의_단어 O O
+O B-제품 O O
+B-날짜 I-날짜 O B-사람 O O
+B-재료 O O
+O O B-장소_이름 O O O O
+B-변경_금액 O O
+O O O O O
+O B-미디어_유형 O B-날짜 O O O O
+O B-인원 I-인원 O O O O
+O B-대상 I-대상 O O B-기간 O O O
+B-토핑 O
+B-장소_이름 O O O
+B-비즈니스_이름 O O O
+O B-플레이어_설정
+B-장치_유형 I-장치_유형 O
+B-음식_유형 O O O O B-주문_유형 O O
+B-사람 O O O O O O
+B-노래_이름 O O O O O O
+O O B-이벤트_이름 O O
+B-집_장소 O B-장치_유형 O
+O B-날짜 O O
+B-메뉴 O O B-메뉴 O O
+B-메뉴 I-메뉴 O B-메뉴 I-메뉴 O O O
+B-미디어_유형 I-미디어_유형 O O
+B-장소_이름 O O O
+B-기간 O O O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 I-라디오_이름 O O O
+O B-제품 O O
+B-뉴스_주제 I-뉴스_주제 O O
+O O B-이벤트_이름 O O
+B-장소_이름 O O O O O O O
+B-횟수 I-횟수 O O B-횟수 I-횟수 O O
+O B-날씨_설명 I-날씨_설명
+O O B-비즈니스_이름 O
+B-장소_이름 O O
+B-메뉴 O O O O
+B-메뉴 O O
+B-팟캐스트_이름 O O
+B-메뉴 O O O O
+B-대상 O O
+B-시간 O
+B-시간 I-시간 O O
+B-사람 O O
+B-인원 I-인원 O
+B-미디어_유형 I-미디어_유형 I-미디어_유형 O
+B-교통_기관 O
+B-시간 I-시간 I-시간 B-장소_이름 I-장소_이름 O B-교통_유형 O
+O O B-관계 O O O
+O O B-방종류 I-방종류 I-방종류 O O O
+O B-날짜 I-날짜 O O O O O
+B-메뉴 B-결제수단 O O O O O O O
+B-장소 O O O
+O O B-사이즈 O O O O B-사이즈 O O
+B-수량 I-수량 O B-수량 I-수량 O O O O
+B-색상 O O
+B-날짜 B-이벤트_이름 I-이벤트_이름 O
+B-메뉴 I-메뉴 O
+B-사람 O O O O
+B-날짜 I-날짜 O O O B-날씨_설명 I-날씨_설명
+O B-인원 O O O O
+O B-뉴스_주제 O O O O
+O O O B-게임_이름 O
+B-교통_이름 I-교통_이름 O O O
+B-날짜 O O
+O B-색상 O O O
+B-정의_단어 O O O
+B-메뉴 O O
+B-방종류 O B-기간 O O
+O B-제품 O O
+O B-소재 O O
+O B-장소_이름 O O O O O
+B-시간대 I-시간대 B-장소_이름 O O O
+B-이벤트_이름 O B-사람 O B-사람 O O
+O B-날짜 I-날짜 O O O
+O B-화폐_이름 O
+B-사람 O B-개인_정보 B-이벤트_이름 O O
+O O O O B-비즈니스_이름 I-비즈니스_이름 I-비즈니스_이름 O O O O
+B-사람 B-날짜 I-날짜 O O O
+B-시간대 O B-날씨_설명 I-날씨_설명
+B-메뉴 O O
+B-날짜 B-날씨_설명 I-날씨_설명
+B-음식_유형 O O B-요리_유형
+B-메뉴 B-결제수단 O O O
+B-제품 O O O O
+B-시간대 O O O O
+B-인원 O O
+B-앱_이름 O B-음악_장르 O O
+O B-소재 B-제품 O
+O B-뉴스_주제 I-뉴스_주제 O O O O
+B-날짜 O O
+B-재료 O O
+O B-노래_이름 O O
+B-메뉴 O O O O
+O B-집_장소 O O O
+B-메뉴 B-수량 O B-메뉴 B-수량 O
+O B-비즈니스_이름 O O
+B-사람 O O
+B-장소_이름 O O O O O
+B-장치_유형 I-장치_유형 O
+B-날짜 B-시간 I-시간 B-이벤트_이름 O O
+B-제품 O O O O O
+B-미디어_유형 I-미디어_유형 I-미디어_유형 I-미디어_유형 O O O
+B-메뉴 O
+B-메뉴 O B-재료 O B-재료 O O
+O O O O B-날짜 I-날짜 B-사람 B-이벤트_이름 O O
+B-날짜 I-날짜 O O
+O B-재질 O
+B-관계 O O O
+B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 O O O O
+B-온도 O O
+B-날짜 O O O
+B-시간 I-시간 I-시간 O O
+O B-날짜 I-날짜 O B-시간 I-시간 O B-이벤트_이름 I-이벤트_이름 O O O O
+O B-인원 O
+B-비즈니스_이름 I-비즈니스_이름 O O O O O O O
+B-온도 O
+B-메뉴 O O O O
+B-메뉴 O O O O
+B-장치_유형 O
+B-정의_단어 O O
+B-농담_유형 O O
+O B-이동수단 O O O
+B-장치_유형 O O
+B-음식_유형 O O O O O O
+O B-연령대 B-인원 O O
+O B-제품 O
+O B-사이즈 O
+O B-사이즈 O O
+B-장소_이름 B-이벤트_이름 I-이벤트_이름 O O O
+B-비즈니스_유형 O O O O O
+O B-제품 O
+B-정의_단어 I-정의_단어 O O O
+B-게임_이름 O
+B-아티스트_이름 O B-노래_이름 I-노래_이름 I-노래_이름 O
+B-대상 I-대상 O O O
+B-수량 O O
+B-날짜 I-날짜 B-사람 B-이벤트_이름 O
+O O O B-날짜 B-이벤트_이름 O
+B-메뉴 I-메뉴 I-메뉴 O O
+B-집_장소 O O O O
+O O O O O B-제품 I-제품 I-제품 I-제품 I-제품 O O
+B-날짜 O B-이벤트_이름 O
+B-팟캐스트_이름 I-팟캐스트_이름 O O O
+B-횟수 I-횟수 O O O O O
+O O B-음악_장르 O O O O
+O B-메뉴 B-수량 B-메뉴 B-수량 O O O
+B-화폐_이름 O B-화폐_이름 I-화폐_이름 O O
+O B-관계 O O B-관계 O
+B-게임_이름 I-게임_이름 O O
+B-시간 I-시간 O
+B-메뉴 O O
+B-장소 O O
+B-사람 I-사람 O O O
+O B-사이즈 O O
+O O O O B-소재 O O O
+B-제품 O O O
+O O B-재료 O O
+O B-제품 I-제품 O
+O O B-사람 O B-미디어_유형 O O O
+O B-목록_이름 O O
+B-목록_이름 I-목록_이름 O O
+B-날짜 B-날씨_설명 O O O
+B-메뉴 O O O O O O
+B-미디어_유형 O O
+B-메뉴 O O O O B-메뉴 O O
+B-장소_이름 O O B-교통_유형 O O
+B-사람 O O O O
+O B-제품 B-제품 O
+B-정의_단어 I-정의_단어 O O
+B-날짜 B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 I-이벤트_이름
+B-온도 O O
+B-색상 O O O O
+O O O B-제품 O
+B-날짜 O O O O
+B-인원 I-인원 O O O O O O
+O O O O B-인원 O
+B-수량 I-수량 O O B-메뉴 O O
+B-날짜 B-시간대 O O
+B-기간 I-기간 O O O
+O O B-수량 O
+O B-온도 O O
+B-날짜 O O O O
+B-이벤트_이름 I-이벤트_이름 O B-날짜 B-시간 I-시간 I-시간 O O
+O B-메뉴 O O
+O O O B-수량 I-수량 O
+O B-제품 O O
+B-색상 O B-사이즈 O O
+B-제품 I-제품 O O
+B-날짜 I-날짜 O B-장소_이름 I-장소_이름 O O O O
+O O O B-교통_유형 O O O O O
+O B-메뉴 B-수량 I-수량 O
+O O O O B-음료 O O O
+O B-미디어_유형 O
+B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O O O
+B-메뉴 O O O
+B-메뉴 O O
+O B-사람 O O B-이벤트_이름 O O O O O
+O O B-날짜 O O B-날씨_설명 O
+B-집_장소 I-집_장소 O B-장치_유형 I-장치_유형 I-장치_유형 O
+B-사람 O O O
+O O B-이벤트_이름 O
+B-정의_단어 I-정의_단어 O O
+B-비즈니스_이름 O O
+B-시간 I-시간 I-시간 B-이벤트_이름 O O
+B-시간 I-시간 B-이벤트_이름 O O O O O
+B-비즈니스_이름 O O O O
+B-날짜 I-날짜 B-이벤트_이름 I-이벤트_이름 O
+O O O B-시간대 O O O O O
+B-시간 B-기간 O O O O O
+B-팟캐스트_설명 I-팟캐스트_설명 I-팟캐스트_설명 O
+B-장치_유형 I-장치_유형 I-장치_유형 O
+O B-이벤트_이름 O O O
+B-날짜 B-시간대 O O B-교통_유형 O
+B-제품 O O O
+B-사이즈 O O O O
+B-메뉴 O O
+O O O B-플레이어_설정 O O
+O B-인원 I-인원 O B-숙박시설종류 O O O O O
+B-장소_이름 O O
+B-제품 O O O
+B-제품 O O O O O
+B-메뉴 O O O O O
+B-숙박시설종류 O O O O O O
+B-메뉴 I-메뉴 B-재료 O
+B-비즈니스_이름 O O O
+B-시간대 O O
+B-메뉴 B-수량 O O
+B-요일 B-요일 O O O
+O B-사이즈 O O
+O B-게임_이름 O
+B-미디어_유형 O O O O O O
+B-교통_유형 O O
+B-장소_이름 O B-장소_이름 O O B-교통_유형 O O O
+B-사람 O O O O
+O B-관계 O O O O O
+B-시간 I-시간 I-시간 B-시간 I-시간 I-시간 O O O O
+B-장소_이름 O B-교통_이름 B-교통_유형 O
+B-수량 I-수량 O B-사람수 I-사람수 O O
+B-장소_이름 O B-날씨_설명 I-날씨_설명
+B-수량 I-수량 O O O
+B-시간대 I-시간대 O O B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O
+B-메뉴 B-수량 O
+B-시간 O O O O O
+O O B-변경_금액 I-변경_금액 O
+B-시간대 I-시간대 O B-날씨_설명 O
+B-대상 O O O O
+B-비즈니스_이름 O O O O O B-미디어_유형 O O
+O O B-오디오북_이름 O O O O
+B-이벤트_이름 O O
+B-날짜 B-시간 I-시간 O O O
+B-날짜 O O O
+B-날짜 I-날짜 O B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O O B-사람 O B-이벤트_이름 O O O
+B-날짜 I-날짜 B-장소_이름 O O O
+B-사람 O O O O
+B-메뉴 O O O O B-토핑 O B-토핑 O O O O
+B-노래_이름 O
+O B-메뉴 B-수량 I-수량 O
+B-시간 I-시간 I-시간 B-집_장소 O O O
+B-교통_유형 O
+B-정의_단어 O O O
+B-음식_유형 O O O O O
+B-영화_이름 I-영화_이름 I-영화_이름 I-영화_이름 I-영화_이름 O
+B-영화_이름 I-영화_이름 I-영화_이름 O
+O B-제품 O
+B-장치_유형 O O
+O O B-수량 O
+B-관계 O O O O
+O B-음식_유형 O O
+B-수량 I-수량 O O
+B-아티스트_이름 O B-노래_이름 O
+B-메뉴 O O
+B-아티스트_이름 O O O O
+B-사람 O O O
+B-메뉴 I-메뉴 I-메뉴 O B-재료 O
+B-시간 O O
+B-사람 I-사람 O O O
+O O O O B-메뉴 I-메뉴 O
+B-미디어_유형 O O
+B-장소_이름 O O O
+O B-관계 I-관계 O
+B-메뉴 I-메뉴 O O O O
+B-팟캐스트_이름 B-팟캐스트_설명 I-팟캐스트_설명
+B-장소_이름 O O O B-장소_이름 O O
+B-화폐_이름 I-화폐_이름 O O
+B-메뉴 O O
+O O B-메뉴 I-메뉴 O O O O
+B-아티스트_이름 O B-음악_설명 O B-플레이어_설정 O O
+O B-온도 B-메뉴 B-수량 I-수량 O
+O O O B-음식_유형 O O O
+B-사람 B-개인_정보 O B-개인_정보 I-개인_정보 O O
+B-사람 I-사람 O O
+B-일반_빈도 I-일반_빈도 O O O O O
+B-메뉴 B-온도 O B-메뉴 O B-메뉴 O B-수량 I-수량 O
+B-미디어_유형 O
+O O B-플레이어_설정 I-플레이어_설정 O O B-음악_장르 O O O O
+B-온도 O O B-온도 O O
+B-사람 O O O O
+B-메뉴 I-메뉴 O B-수량 O O O
+B-장소_이름 O B-교통_유형 O O O
+B-사람 O O O O O
+B-적립수단 O O O
+B-메뉴 O O
+O B-미디어_유형 I-미디어_유형 I-미디어_유형 O O O O
+B-뉴스_주제 O O O O
+O B-제품 O O O O
+B-장소_이름 O O O
+B-색상 I-색상 O O O O
+B-교통_유형 O
+B-날짜 O O
+B-토핑 O
+B-장소_이름 B-음식_유형 O
+B-음식_유형 I-음식_유형 I-음식_유형 O O
+B-결제수단 O O O
+B-아티스트_이름 B-노래_이름 O
+O O O O O B-목록_이름 O
+B-메뉴 O O O
+O B-재료 O O O O
+B-게임_이름 O
+B-메뉴 O O O
+B-날짜 B-날씨_설명 O O
+O B-제품 O B-재질 O
+O B-기간 I-기간 O O O O
+B-화폐_이름 I-화폐_이름 O B-화폐_이름 O O
+B-사람 O O O O O O O
+B-날짜 I-날짜 O O O O
+O O B-결제수단 O O
+B-이메일_주소 I-이메일_주소 I-이메일_주소 I-이메일_주소 O O O
+B-날짜 B-식사_유형 I-식사_유형 O B-시간 I-시간 I-시간 B-사람 O B-이벤트_이름 O O
+B-장소 O O
+B-시간대 B-시간 O O B-날짜 B-시간 I-시간 O
+B-비즈니스_이름 O O O O O O B-미디어_유형 O
+O B-미디어_유형 O O
+B-온도 O O O
+O O B-날짜 I-날짜 O O O
+B-반 I-반 O O O B-반 I-반 O O
+O O B-날짜 O O O B-이벤트_이름 I-이벤트_이름 O
+O O O O B-시간 I-시간 O
+O B-제품 O O B-제품 O O O
+O B-재질 O
+O B-날짜 B-장소_이름 O B-이벤트_이름 O O
+O O B-비즈니스_이름 I-비즈니스_이름 I-비즈니스_이름 O O O O O
+B-집_장소 O O O
+B-메뉴 O O
+B-사람 O O O
+B-날짜 I-날짜 I-날짜 B-시간 I-시간 O B-사람 O B-이벤트_이름 O O O
+B-메뉴 O O
+B-메뉴 I-메뉴 B-수량 O
+O O B-교통_유형 O O
+B-비즈니스_이름 O
+B-메뉴 I-메뉴 B-수량 O
+O B-비즈니스_유형 O
+B-메뉴 O O O
+B-비즈니스_이름 O O B-미디어_유형 I-미디어_유형
+O B-메뉴 B-수량 O O O O
+B-장소_이름 O B-시간 I-시간 O B-장소_이름 O O O
+B-날짜 O O
+O B-제품 O O O O
+B-메뉴 B-수량 I-수량 O O
+B-메뉴 O O
+B-시간 O O O O
+B-미디어_유형 I-미디어_유형 I-미디어_유형 O O
+O B-농담_유형 O O O O
+O B-재료 O O O
+B-날짜 I-날짜 O
+B-이벤트_이름 I-이벤트_이름 B-날짜 B-시간 O
+B-날짜 B-시간 I-시간 O O O O O
+B-메뉴 O
+O B-일자 B-사람수 I-사람수 O
+O B-화폐_이름 I-화폐_이름 O B-화폐_이름 O O
+B-메뉴 O
+B-미디어_유형 O B-아티스트_이름 O O
+O B-결제수단 I-결제수단 O O
+B-날짜 B-시간 I-시간 B-이벤트_이름 O O
+O O O B-노래_이름 O
+B-날짜 B-날씨_설명 O
+B-미디어_유형
+B-집_장소 B-색상_유형 O O O
+B-온도 O B-온도 O O O
+B-방종류 I-방종류 O O O O
+O B-메뉴 O O
+B-메뉴 I-메뉴 O B-메뉴 O O O O O
+O B-메뉴 O O
+B-장소_이름 I-장소_이름 O B-교통_유형 O O
+B-음악_장르 I-음악_장르 O
+B-목록_이름 O O
+B-메뉴 O O O O
+B-날짜 B-이벤트_이름 O O O O B-관계 O O
+B-사람 O O O O O
+B-제품 O
+O O B-운동_유형 I-운동_유형 O O
+B-장소_이름 O O O O O
+B-노래_이름 I-노래_이름 O O
+B-메뉴 O B-재료 O B-재료 O O O
+B-재료 B-요리_유형 I-요리_유형 O O
+B-제품 O O
+O B-시간 I-시간 O O O O O
+B-집_장소 I-집_장소 O
+O O B-제품 O O O
+B-메뉴 O B-메뉴 O O O O O O
+B-날짜 O O O O O
+B-농담_유형 O
+B-사람 O O O
+B-날짜 O
+O B-노래_이름 O
+B-시간 B-시간 O O O
+B-온도 B-메뉴 O
+B-날짜 O
+O B-색상 O O O
+B-사람 O O
+B-대상 B-성별 O O O
+O O B-미디어_유형
+O O B-사이즈 O O
+B-장치_유형 I-장치_유형 O B-변경_금액 O
+B-비즈니스_이름 O O O
+B-인원 O O O O
+B-시간 O O O
+B-날짜 I-날짜 O O O O
+B-색상 I-색상 O O
+B-이동수단 O O O
+B-제품 O O O B-사이즈 O O O
+B-이동수단 O O O O
+B-날짜 B-시간 I-시간 I-시간 I-시간 I-시간 O B-장소_이름 O O O
+O B-색상 O O O O O
+B-장소_이름 O O B-교통_유형 O
+B-뉴스_주제 I-뉴스_주제 I-뉴스_주제 I-뉴스_주제 O O
+O B-결제수단 O
+O B-관계 B-이벤트_이름 O O O
+O O B-재질 O O
+B-방종류 O B-날짜 O O O O
+B-온도 B-메뉴 B-수량 I-수량 O B-메뉴 B-수량 O
+B-재료 O
+B-일반_빈도 I-일반_빈도 B-시간 I-시간 I-시간 B-이벤트_이름 O
+B-구이음식종류 O
+B-시간 I-시간 I-시간 O O
+O B-비즈니스_유형 O O O
+O O O
+O O O O O B-오디오북_이름 I-오디오북_이름 B-플레이어_설정 O
+B-사람 O O O
+O O B-수량 O
+B-시간대 O B-시간 I-시간 O B-시간대 O O O O O O
+B-뉴스_주제 O O
+B-집_장소 O O O
+B-화폐_이름 I-화폐_이름 O B-화폐_이름 I-화폐_이름 O O O
+B-시간대 I-시간대 B-시간 I-시간 I-시간 O B-교통_기관 O
+B-날짜 B-뉴스_주제 O O
+B-메뉴 I-메뉴 O O O
+O B-제품 B-사이즈 I-사이즈 O O
+B-온도 O O
+O B-날짜 B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O O O O
+B-화폐_이름 I-화폐_이름 O B-화폐_이름 O O
+B-정의_단어 I-정의_단어 O O O
+O B-비즈니스_이름 O O O O
+B-날짜 O O O
+B-정의_단어 O O
+O B-이동수단 O O
+B-사람 O O O O O O
+B-사람 O O O O
+B-이동수단 O O
+O O B-라디오_이름 I-라디오_이름 I-라디오_이름 O
+B-뉴스_주제 O O O
+B-장치_유형 O O
+B-비즈니스_이름 O O O
+B-메뉴 B-수량 O
+O B-집_장소 O O O
+O B-목록_이름 I-목록_이름 O O
+B-날짜 B-목록_이름 I-목록_이름 I-목록_이름 I-목록_이름 O O
+B-영화_이름
+B-비즈니스_이름 I-비즈니스_이름 O O
+B-아티스트_이름 I-아티스트_이름 O
+B-날짜 I-날짜 B-이벤트_이름 O O
+B-방종류 O O
+B-시간 I-시간 I-시간 O O O O
+O O O O O O O O B-날짜 B-이벤트_이름 O
+O O O O O B-미디어_유형 O O O O O O O
+B-메뉴 O O O
+B-날짜 O B-날씨_설명 O O
+B-시간 I-시간 B-음식_유형 O O O
+B-장치_유형 I-장치_유형 O O
+B-날짜 I-날짜 O O O
+B-장소_이름 O O O O O
+O B-앱_이름 O O B-라디오_이름 O
+B-사람 B-음식_유형 B-주문_유형 O
+O B-메뉴 O O
+B-미디어_유형 O B-플레이어_설정 I-플레이어_설정
+B-이벤트_이름 I-이벤트_이름 O O O O
+B-장소_이름 O B-이벤트_이름 O
+B-메뉴 I-메뉴 O B-맛 O
+B-방종류 O
+B-메뉴 I-메뉴 B-수량 O
+B-집_장소 O O O
+B-사람 O B-사람 O B-날짜 B-시간 O O O
+B-이메일_주소 I-이메일_주소 I-이메일_주소 I-이메일_주소 O O O O
+B-인원 O O O O
+B-사람 B-개인_정보 I-개인_정보 O
+B-메뉴 O
+B-집_장소 O O
+B-사람 I-사람 O O
+B-시간 I-시간 O O O
+B-사람 B-이벤트_이름 O
+B-메뉴 O O O
+B-음료 O B-수량 O O
+B-메뉴 O O O O
+B-시간 I-시간 I-시간 I-시간 I-시간 O O O
+O B-메뉴 I-메뉴 O O O O O
+O B-아티스트_이름 O O
+B-메뉴 O O O
+O B-미디어_유형 I-미디어_유형 O O
+B-메뉴 O O B-메뉴 O O
+O O O O B-날짜 O
+B-날짜 B-시간 I-시간 B-관계 O B-이벤트_이름 O
+B-기간 O O O
+B-시간대 O B-이벤트_이름 O O O
+B-장소_이름 O O O O
+B-메뉴 B-수량 I-수량 O
+O O O O B-소재 O O O
+O O B-제품 O O
+B-음식_유형 O O O
+B-장소_이름 O O O
+O B-일자 O O O O O O
+B-정의_단어 O O
+B-음식_유형 I-음식_유형 O O O
+B-날짜 B-이벤트_이름 O O
+O B-집_장소 O O
+O B-오디오북_이름 I-오디오북_이름 O O O
+B-장소_이름 O O O
+B-장치_유형 I-장치_유형 O
+B-날짜 I-날짜 B-이벤트_이름 I-이벤트_이름 O O O O
+B-메뉴 B-수량 O
+B-메뉴 O B-재료 O
+B-정의_단어 O O
+B-장치_유형 I-장치_유형 O
+O B-메뉴 O B-온도 O
+B-시간 I-시간 O O O O O
+B-장소_이름 O O B-이벤트_이름 I-이벤트_이름 O
+B-메뉴 O O O O B-메뉴 O O O
+O O B-요일 B-시간 O O
+B-온도 B-메뉴 B-수량 I-수량 O
+B-사이즈 I-사이즈 O O
+O O O B-사람 O O O B-사람 O O O O O O
+B-날짜 B-이벤트_이름 O O
+B-재료 O B-재료 O O O O
+B-시간 I-시간 I-시간 O O O
+B-재생목록_이름 I-재생목록_이름 I-재생목록_이름 O O O
+B-메뉴 O O B-온도 O B-재료 B-수량 I-수량 O O
+O O O B-메뉴 O
+O B-제품 O
+O B-메뉴 O
+O O B-날짜 B-이벤트_이름 O
+B-비즈니스_이름 O O O O O O O O
+B-날짜 O O B-이벤트_이름 I-이벤트_이름 O O
+O B-색상_유형 O O O
+O B-색상 O
+B-메뉴 B-수량 O O
+B-과목 O O B-과목 O O
+B-메뉴 B-온도 O O
+B-정의_단어 O O
+O B-사람 O O O
+O B-시간 I-시간 O
+B-장소_이름 O B-교통_유형 O O
+O B-시간 O B-인원 B-수량 O O O O
+O B-재질 O O O O O O O O
+O O B-소재 O
+B-집_장소 O O O
+B-장소_이름 O O O B-교통_유형 O
+B-메뉴 I-메뉴 O O
+B-미디어_유형 O O O O
+B-사람 O O O O O
+B-교통_유형 O O
+B-메뉴 B-수량 O B-메뉴 O
+B-제품 O O O
+B-비즈니스_이름 B-주문_유형 O
+B-시간 I-시간 B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O O
+B-과목 O O O O
+O B-이벤트_이름 O O
+B-장소 O O O
+B-시간대 O O O
+B-기간 O O
+B-장소_이름 I-장소_이름 O B-교통_유형 O O O
+B-아티스트_이름 O B-노래_이름 I-노래_이름 O
+B-시간 I-시간 B-사람 O B-이벤트_이름 O O
+B-미디어_유형
+B-제품 O O O O O
+O B-결제수단 O O O
+B-사람 B-개인_정보 O O
+O B-색상 O O O
+B-음료 O O O O
+B-비즈니스_이름 B-음식_유형 I-음식_유형 I-음식_유형 B-주문_유형 O
+B-비즈니스_이름 O O
+O B-날짜 B-교통_유형 O O
+B-제품 I-제품 O
+O B-메뉴 O B-메뉴 O O
+B-관계 I-관계 B-개인_정보 O
+B-사람 O O O
+B-수량 B-날짜 B-방종류 O O O
+B-장소_이름 O O O B-음식_유형 B-비즈니스_유형 O
+B-음식_유형 O O
+B-장소_이름 O B-영화_유형 I-영화_유형 O O O
+O B-장소_이름 O O O O
+B-날짜 I-날짜 I-날짜 B-관계 O B-이벤트_이름 O
+B-메뉴 B-수량 O O B-수량 O
+O B-색상 B-제품 O O O
+B-제품 O
+O B-이벤트_이름 O
+O O O B-사이즈 O O
+B-장소_이름 O O B-비즈니스_유형 O
+B-사람 O O O
+B-팟캐스트_이름 I-팟캐스트_이름 O O
+B-메뉴 O O O
+B-사람 O O O O
+B-메뉴 I-메뉴 B-수량 I-수량 O B-금액 I-금액 O
+B-정의_단어 O O O
+B-오디오북_이름 I-오디오북_이름 O O O O O O O O
+O O B-날씨_설명
+B-비즈니스_이름 B-주문_유형
+B-날짜 B-시간 I-시간 I-시간 O O B-이벤트_이름 O
+B-장소_이름 O O
+B-날짜 O O
+B-사람 O O O
+B-메뉴 O B-수량 O O O
+O O O O B-제품 O O
+B-비즈니스_이름 O B-미디어_유형 O
+B-제품 O O O O O
+B-메뉴 O O O O
+B-비즈니스_이름 O O O O
+B-음식_유형 O O O
+O B-장소_이름 O O O O
+B-날짜 B-시간 B-장소_이름 O O
+O O B-비즈니스_유형 B-주문_유형 O O
+B-아티스트_이름 I-아티스트_이름 O O O O O O
+B-아티스트_이름 O
+B-재생목록_이름 I-재생목록_이름 O
+O O B-결제수단 O
+B-사람 O B-개인_정보 I-개인_정보 I-개인_정보 O O
+B-장소_이름 O O
+B-날짜 B-시간대 B-시간 I-시간 I-시간 O O O
+B-장소_이름 O O O O
+B-온도 O O
+B-이벤트_이름 I-이벤트_이름 O
+B-결제수단 O O O
+B-장소_이름 O B-시간 O B-장소_이름 O O O
+B-메뉴 O B-수량 I-수량 O O
+B-메뉴 I-메뉴 I-메뉴 O O
+B-관계 O O O O O
+O B-장소_이름 O B-날씨_설명 I-날씨_설명
+B-제품 O O
+B-메뉴 O O O O
+O B-색상 O O
+O B-색상 O O
+O B-음악_장르 O O O
+B-비즈니스_이름 O O O O B-미디어_유형
+B-메뉴 O O
+B-메뉴 B-온도 O O
+B-아티스트_이름
+O O B-제품 O O O O O O
+B-음식_유형 O O O O
+B-날짜 I-날짜 I-날짜 O O O O O
+B-날짜 B-시간 B-이벤트_이름 O O O
+B-집_장소 O O O
+B-아티스트_이름 O O O O O O O O
+O B-메뉴 O O O
+B-메뉴 I-메뉴 I-메뉴 O
+B-장소_이름 O O O
+O O O B-비즈니스_유형 O O
+B-교통_유형 O
+O B-관계 O B-날짜 B-시간 O
+O B-날짜 O O O O O
+B-라디오_이름 I-라디오_이름 I-라디오_이름 O O
+B-메뉴 O O O
+B-메뉴 O
+B-이벤트_이름 I-이벤트_이름 I-이벤트_이름 O O O O
+B-미디어_유형 O O B-비즈니스_이름 O O O O O
+O B-재생목록_이름 I-재생목록_이름 O O O O O O
+B-수량 I-수량 O O B-수량 I-수량 O
+B-비즈니스_유형 O O
+B-메뉴 I-메뉴 I-메뉴 O B-메뉴 O O O
+B-팟캐스트_이름 O O
+O B-시간 I-시간 O
+B-제품 O O O
+B-메뉴 O O O O O
+O B-메뉴 O O
+B-장소_이름 O B-비즈니스_유형 O
+B-재생목록_이름 I-재생목록_이름 O
+B-뉴스_주제 O O
+B-목록_이름 I-목록_이름 O O O
+B-날짜 O B-날씨_설명 O O
+B-목록_이름 O O O
+O O B-비즈니스_유형 O O O O
+B-제품 I-제품 O
+B-기간 O B-기간 O O O O
+B-메뉴 O O O O
+B-메뉴 O O O
+B-대상 O B-성별 O
+O B-기간 O O O
+O O O O B-수량 O
+B-날짜 I-날짜 O O O O
+B-시간 I-시간 B-이벤트_이름 O O
+B-정의_단어 O O O
+B-장소_이름 I-장소_이름 O O O O O
+B-날짜 B-장소_이름 O O B-교통_유형 O O O O
+B-장치_유형 I-장치_유형 O O
+B-미디어_유형 O
+O O B-사이즈 B-사이즈 O O
+B-날짜 B-시간 I-시간 I-시간 O O O
+O O B-뉴스_주제 O O
+B-미디어_유형 B-뉴스_주제 O O O
+B-제품 O O O O O
+B-비즈니스_이름 O O O O
+B-사람 I-사람 O O O B-이벤트_이름 O
+O B-시간대 B-이벤트_이름 O
+B-색상 B-제품 O O
+O B-메뉴 O O
+B-재생목록_이름 I-재생목록_이름 I-재생목록_이름 O O O O
+B-오디오북_이름 O O B-플레이어_설정
+B-라디오_이름 O O O O O
+B-아티스트_이름 O O O
+B-장소_이름 O O O
+B-제품 I-제품 O O
+B-메뉴 O O O
+B-인원 O O
+B-사람 O O O
+B-정의_단어 O O O O
+B-재료 O O O O O
+B-제품 B-사이즈 B-제품 B-사이즈 O O
+B-시간 I-시간 I-시간 I-시간 I-시간 O
+O B-장소_이름 B-날씨_설명 I-날씨_설명 O O
+B-날짜 O O O
+B-인원 I-인원 O O O
+B-메뉴 O O
+B-성별 O B-성별 O O
+B-시간 I-시간 O O O
+B-기간 I-기간 O O O O O O O O
+B-온도 B-메뉴 O
+O O O B-기간 O O
+B-날짜 I-날짜 O O O O O O
+B-시간 O B-주문_유형 O
+B-시간 I-시간 I-시간 O O
+B-토핑 O O O
+B-일반_빈도 B-시간 I-시간 B-식사_유형 O
+B-날짜 O B-사람 O O
+B-날짜 B-사람 O B-이벤트_이름 O
+O B-온도 O O
+O O B-일반_빈도 O O
+B-사람 O O O O O O O O
+B-뉴스_주제 O O O
+B-정의_단어 I-정의_단어 O O
+O O O B-이벤트_이름 O B-날짜 O O
+B-날짜 I-날짜 B-관계 O B-식사_유형 O
+B-날짜 O B-이벤트_이름 O O
+B-날짜 O O O O
