@@ -1,8 +1,8 @@
 # [오케스트로] Intent Classification & Slot Filling
 
-해당 프로젝트는 **Intent Classification**과 **Slot Filling**을 위해 JointBERT 모델을 활용합니다. 
+해당 프로젝트는 **Intent Classification**과 **Slot Filling**을 위해 JointBERT 모델을 활용
 <br/>
-Amazon-massive Dataset과 AI Hub 한국어 대화 Dataset을 결합하여, 한국어 환경에서의 효과적인 정보 추출을 목표로 합니다.
+Amazon-massive Dataset과 AI Hub 한국어 대화 Dataset을 결합하여, 한국어 환경에서의 효과적인 정보 추출을 목표
 
 <br/>
 
